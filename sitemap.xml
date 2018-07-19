@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_en-us.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_en-ca.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_en-gb.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_en-au.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_en-hk.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_en-my.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_en-int.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_en-in.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_fr-fr.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_nl-nl.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_es-pe.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_es-mx.xml</loc>
+  </sitemap>
+</sitemapindex>
