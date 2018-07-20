@@ -13,10 +13,10 @@
     <loc>https://www.edifier.com/nl/nl/speakers/subwoofers-for-tv-and-living-rooms</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/subwoofers-for-home-theatre</loc>
+    <loc>https://www.edifier.com/nl/nl/speakers</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers</loc>
+    <loc>https://www.edifier.com/nl/nl/speakers/subwoofers-for-home-theatre</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/subwoofers-for-the-bass-lovers</loc>
@@ -118,16 +118,16 @@
     <loc>https://www.edifier.com/nl/nl/speakers/mp100</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/r1700bt-bluetooth-bookshelf</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/b7</loc>
+    <loc>https://www.edifier.com/nl/nl/blog-news-press</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/about-us</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/blog-news-press</loc>
+    <loc>https://www.edifier.com/nl/nl/speakers/r1700bt-bluetooth-bookshelf</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/b7</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/contact-us</loc>
@@ -181,13 +181,13 @@
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/w670bt-bluetooth-handsfree-foldable</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/W830BT-Bluetooth-aptX-Wireless-Headphones</loc>
+    <loc>https://www.edifier.com/nl/nl/speakers/m2280-compact-laptop</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/m1250-compact-laptop-usb</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/m2280-compact-laptop</loc>
+    <loc>https://www.edifier.com/nl/nl/W830BT-Bluetooth-aptX-Wireless-Headphones</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/r1100</loc>
@@ -247,16 +247,7 @@
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/g10</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/about-us/our-story</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/g20</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/about-us/social-responsibilities</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/about-us/design-philosophy</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/TechTesters-review-Edifier-R980T</loc>
@@ -403,13 +394,22 @@
     <loc>https://www.edifier.com/nl/nl/blog-news-press/sound-to-go-award-winning</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-on-the-go-if350-portable-sound-system</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-on-the-go-if350-portable-sound-system</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/about-us/our-story</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-m1360-multimedia-speaker-system</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/about-us/social-responsibilities</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/about-us/design-philosophy</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/how-to-connect-bluetooth-speakers</loc>

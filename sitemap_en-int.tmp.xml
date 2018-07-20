@@ -10,16 +10,16 @@
     <loc>https://www.edifier.com/int/en/headphones-earphones</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/car-audio</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/int/en/region-language</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/speakers/subwoofers-for-tv-and-living-rooms</loc>
+    <loc>https://www.edifier.com/int/en/car-audio</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/subwoofers-for-home-theatre</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/int/en/speakers/subwoofers-for-tv-and-living-rooms</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers</loc>
@@ -28,13 +28,13 @@
     <loc>https://www.edifier.com/int/en/speakers/subwoofers-for-the-bass-lovers</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/int/en/accessories</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/int/en/speakers/gaming</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/pc-laptop</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/int/en/accessories</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/bluetooth-wireless</loc>
@@ -55,6 +55,9 @@
     <loc>https://www.edifier.com/int/en/speakers/5.1-surround-sound</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/int/en/speakers/s350db</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/int/en/speakers/e235-luna-e-2.1-bluetooth-wireless-subwoofer</loc>
   </url>
   <url>
@@ -73,10 +76,10 @@
     <loc>https://www.edifier.com/int/en/speakers/e10bt-exclaim-bt-connect-bluetooth-computer-speakers</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/about-us</loc>
+    <loc>https://www.edifier.com/int/en/speakers/e30-spinnaker-2.0-bluetooth</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/speakers/e30-spinnaker-2.0-bluetooth</loc>
+    <loc>https://www.edifier.com/int/en/about-us</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/blog-news-press</loc>
@@ -169,10 +172,10 @@
     <loc>https://www.edifier.com/int/en/car-audio/nf651a-car-speaker-sets</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/car-audio/sf651a-car-speaker-sets</loc>
+    <loc>https://www.edifier.com/int/en/car-audio/pf651-car-speaker-sets</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/car-audio/pf651-car-speaker-sets</loc>
+    <loc>https://www.edifier.com/int/en/car-audio/sf651a-car-speaker-sets</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/car-audio/gf651a-car-speaker-sets</loc>
@@ -190,22 +193,22 @@
     <loc>https://www.edifier.com/int/en/car-audio/cw810-active-car-subwoofer</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/car-audio/cw1000c-car-active-subwoofer</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/int/en/car-audio/gf600a-model-specific-systems</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/int/en/car-audio/cw1000c-car-active-subwoofer</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/int/en/car-audio/g600a-model-specific-systems</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/int/en/speakers/s760d-5.1-gaming-speakers</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/e25hd-luna-eclipse-hd</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/b3</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/int/en/speakers/s760d-5.1-gaming-speakers</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/e3350-prisma-bluetooth</loc>
@@ -247,9 +250,6 @@
     <loc>https://www.edifier.com/int/en/speakers/r2000db-bookshelf-bluetooth-optical-rca</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/speakers/s350db</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/int/en/speakers/s50db-power-home-soundbar</loc>
   </url>
   <url>
@@ -283,10 +283,10 @@
     <loc>https://www.edifier.com/int/en/speakers/r2730db-bluetooth-bookshelf</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/speakers/c2xd-2.1-optical-input</loc>
+    <loc>https://www.edifier.com/int/en/speakers/s880</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/speakers/s880</loc>
+    <loc>https://www.edifier.com/int/en/speakers/c2xd-2.1-optical-input</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/c3x</loc>
@@ -313,9 +313,6 @@
     <loc>https://www.edifier.com/int/en/speakers/s530d-2.1-subwoofer</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/speakers/s730-2.1-gaming-speakers</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/int/en/speakers/xm2pf</loc>
   </url>
   <url>
@@ -326,6 +323,9 @@
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/da5100-5.1-surround</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/int/en/speakers/s730-2.1-gaming-speakers</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/speakers/e255</loc>
@@ -445,10 +445,10 @@
     <loc>https://www.edifier.com/int/en/blog-news-press/edifier-on-the-go-if350-portable-sound-system</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system</loc>
+    <loc>https://www.edifier.com/int/en/blog-news-press/edifier-m1360-multimedia-speaker-system</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/int/en/blog-news-press/edifier-m1360-multimedia-speaker-system</loc>
+    <loc>https://www.edifier.com/int/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/int/en/how-to-connect-bluetooth-speakers</loc>

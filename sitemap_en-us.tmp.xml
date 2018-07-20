@@ -7,10 +7,13 @@
     <loc>https://www.edifier.com/us/en/</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/us/en/region-language</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/us/en/shop</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/region-language</loc>
+    <loc>https://www.edifier.com/us/en/speakers/bookshelf</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/battery-powered-portable</loc>
@@ -19,19 +22,16 @@
     <loc>https://www.edifier.com/us/en/speakers/pc-laptop</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/bookshelf</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/us/en/speakers/subwoofers-for-tv-and-living-rooms</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/deals</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/accessories</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/bluetooth</loc>
@@ -49,16 +49,19 @@
     <loc>https://www.edifier.com/us/en/headphones-earphones</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/s880db</loc>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/w800bt-bluetooth-wireless</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/p12-passive-bookshelf-speakers</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/w800bt-bluetooth-wireless</loc>
+    <loc>https://www.edifier.com/us/en/speakers/s880db</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/w280bt-bluetooth-water-resistant-earphones</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers/bluetooth-wireless</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/h880-audiophile-over-ear-headphones</loc>
@@ -67,13 +70,7 @@
     <loc>https://www.edifier.com/us/en/speakers/mp280-portable-bluetooth-travel-speaker</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/bluetooth-wireless</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/w293bt-in-ear-bluetooth-waterproof-sweatproof-earphones</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers/r1850db-powered-bookshelf-speakers-subwoofer-out</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/mp200-travel-bluetooth-waterproof-portable-speaker</loc>
@@ -82,31 +79,34 @@
     <loc>https://www.edifier.com/us/en/speakers/r1700bt-bluetooth-bookshelf-speakers</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/us/en/speakers/r1850db-powered-bookshelf-speakers-subwoofer-out</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/p281-sweatproof-sport-earphones</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/h297-kevlar-in-ear-headphones</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/s2000pro-bookshelf-speakers-studio-monitors</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/p281-sweatproof-sport-earphones</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/us/en/speakers/subwoofers-for-the-bass-lovers</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/about-us</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/blog-news-press</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/contact-us</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/e255-5.1-home-theater-surround-sound-speakers</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/us/en/blog-news-press</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/about-us</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/us/en/warranty-terms</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/contact-us</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/warranty</loc>
@@ -136,10 +136,10 @@
     <loc>https://www.edifier.com/us/en/shop/product_type/Speakers</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/shop/collections/2-1-speaker-systems</loc>
+    <loc>https://www.edifier.com/us/en/shop/collections/5-1-speaker-systems</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/shop/collections/5-1-speaker-systems</loc>
+    <loc>https://www.edifier.com/us/en/shop/collections/2-1-speaker-systems</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/shop/collections/2-0-speaker-systems</loc>
@@ -160,10 +160,13 @@
     <loc>https://www.edifier.com/us/en/shop/features/computer</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/us/en/shop/features/gaming</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/us/en/shop/collections/earphones</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/shop/features/gaming</loc>
+    <loc>https://www.edifier.com/us/en/shop/collections/headphones</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/shop/product_type/Headphones</loc>
@@ -172,31 +175,28 @@
     <loc>https://www.edifier.com/us/en/shop/features/hi-fi</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/shop/collections/headphones</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/us/en/shop/features/bluetooth-headphones</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/shop/features/headset</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/shop/features/mobile</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/shop/product_type/Accessories</loc>
+    <loc>https://www.edifier.com/us/en/shop/features/headset</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/r2000db-bookshelf-speaker-bluetooth-optical-rca</loc>
+    <loc>https://www.edifier.com/us/en/shop/product_type/Accessories</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/s1000db-active-bookshelf</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/r1010bt-simple-bluetooth-bookshelf-speakers</loc>
+    <loc>https://www.edifier.com/us/en/speakers/r2000db-bookshelf-speaker-bluetooth-optical-rca</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/r1280db-bluetooth-bookshelf-speakers-built-in-amplifier-coaxial-optical</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers/r1010bt-simple-bluetooth-bookshelf-speakers</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/w855bt-Bluetooth-Wireless-aptX-Headphones</loc>
@@ -214,25 +214,25 @@
     <loc>https://www.edifier.com/us/en/headphones-earphones/w360bt-bluetooth-neckband-earphone</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/h850-foldable-over-ear-headphones</loc>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/p841-over-the-ear-headphones-with-controls</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/p841-over-the-ear-headphones-with-controls</loc>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/h850-foldable-over-ear-headphones</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/h840-puresound-hifi-ergonomic-headphones</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/h650-foldable-travel-headphones</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/p180-mobile-handfree-tpewire</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/h180-hifi-classic-earbuds</loc>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/h650-foldable-travel-headphones</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/mp700-Bluetooth-Portable-Speakers-For-Travel</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/h180-hifi-classic-earbuds</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/m33-bluetooth-portable-speaker-bric-connect</loc>
@@ -244,13 +244,13 @@
     <loc>https://www.edifier.com/us/en/speakers/mp100-portable-bluetooth-splashproof-speaker</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/e25hd-luna-bluetooth-wireless</loc>
+    <loc>https://www.edifier.com/us/en/speakers/s730-2.1-gaming-speakers-10-inch-subwoofer</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/s350db-bookshelf-speakers-subwoofer</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/s730-2.1-gaming-speakers-10-inch-subwoofer</loc>
+    <loc>https://www.edifier.com/us/en/speakers/e25hd-luna-bluetooth-wireless</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/e30-spinnaker-2.0-bluetooth-bookshelf-speakers</loc>
@@ -280,10 +280,13 @@
     <loc>https://www.edifier.com/us/en/speakers/m1380-2.1-computer-speaker-subwoofer-sound-system</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/us/en/speakers/r19u-compact-2.0-usb-speakers</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/us/en/speakers/r12u-compact-usb-speakers</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/r19u-compact-2.0-usb-speakers</loc>
+    <loc>https://www.edifier.com/us/en/speakers/cinesound-b3-wall-mounted-bluetooth-soundbar</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/speakers/e235-luna-e-2.1-bluetooth-speakers-wireless-subwoofer</loc>
@@ -292,34 +295,10 @@
     <loc>https://www.edifier.com/us/en/speakers/s50db-power-home-soundbar</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/speakers/2.0-powered-bookshelf</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers/cinesound-b3-wall-mounted-bluetooth-soundbar</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers/2.1-subwoofer</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers/5.1-surround-sound</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers/subwoofers-for-home-theatre</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers/m1360-2.1-computer-speakers-subwoofer-system</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers/gaming</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/speakers/s760d-5.1-gaming-home-theater-speakers-subwoofer</loc>
+    <loc>https://www.edifier.com/us/en/accessories/e25HD-speaker-stands</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/accessories/s2000-pro-bookshelf-speaker-stands</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/accessories/e25HD-speaker-stands</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/accessories/wc14</loc>
@@ -328,13 +307,13 @@
     <loc>https://www.edifier.com/us/en/accessories/s730-remote-wired-controller</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/accessories/e30-remote-wireless-rechargeable-controller</loc>
+    <loc>https://www.edifier.com/us/en/accessories/e3350-remote-controller</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/accessories/s330d-remote-controller</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/accessories/e3350-remote-controller</loc>
+    <loc>https://www.edifier.com/us/en/accessories/e30-remote-wireless-rechargeable-controller</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/accessories/luna-e25HD-toslink-to-toslink-optical-audio-cable</loc>
@@ -343,10 +322,10 @@
     <loc>https://www.edifier.com/us/en/accessories/e30-e3360-spinnaker-power-adapter-20</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/accessories/e10-e10bt-mp300-m3-exclaim-power-adapter-12dc</loc>
+    <loc>https://www.edifier.com/us/en/accessories/r2000db-s1000db-speaker-cable-16-foot</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/accessories/r2000db-s1000db-speaker-cable-16-foot</loc>
+    <loc>https://www.edifier.com/us/en/accessories/e10-e10bt-mp300-m3-exclaim-power-adapter-12dc</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/accessories/r1850db-bookshelf-speaker-remote-controller-</loc>
@@ -394,19 +373,40 @@
     <loc>https://www.edifier.com/us/en/accessories/b3-remote-RC10A1</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/us/en/accessories/r1280db-remote-controller</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers/2.0-powered-bookshelf</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/us/en/accessories/r1280t-remote-controller</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/accessories/r1280db-remote-controller</loc>
+    <loc>https://www.edifier.com/us/en/speakers/2.1-subwoofer</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers/m1360-2.1-computer-speakers-subwoofer-system</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers/5.1-surround-sound</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers/subwoofers-for-home-theatre</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers/s760d-5.1-gaming-home-theater-speakers-subwoofer</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/speakers/gaming</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/w860nb-active-noise-cancelling-bluetooth</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/w360nb-active-noise-cancelling-bluetooth-headphones</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/w296bt-wireless-in-ear-waterproof-bluetooth-earphones</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/w860nb-active-noise-cancelling-bluetooth</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/w675bt-bluetooth-on-ear</loc>
@@ -427,10 +427,10 @@
     <loc>https://www.edifier.com/us/en/headphones-earphones/p220</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/p190-hi-fi-earphones-microphone-inline-controls</loc>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/h190</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/h190</loc>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/p190-hi-fi-earphones-microphone-inline-controls</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/p185-classic-earphones-inline-controls</loc>
@@ -448,13 +448,10 @@
     <loc>https://www.edifier.com/us/en/headphones-earphones/h210-noise-isolating-tilt-hifi</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/g3-gaming-usb-headset</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/p210-in-ear-hifi-noise-isolating-headset</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones/g2-gaming-headphone</loc>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/g3-gaming-usb-headset</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/g4-computer-gaming-surround-sound-headset</loc>
@@ -463,10 +460,13 @@
     <loc>https://www.edifier.com/us/en/headphones-earphones/g20-computer-gaming-virtual-surround-headset</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/h750-hifi-foldable-headphones</loc>
+    <loc>https://www.edifier.com/us/en/headphones/g2-gaming-headphone</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/m815-around-ear-headset-microphone-volume-slider</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/h750-hifi-foldable-headphones</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/p750-foldable-inline-controls-on-ear-headphones</loc>
@@ -481,25 +481,16 @@
     <loc>https://www.edifier.com/us/en/headphones-earphones/m710-on-ear-headset-inline-controls</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/headphones-earphones/g10-computer-gaming-headset</loc>
+    <loc>https://www.edifier.com/us/en/blog-news-press/H850-Sale-May-2016</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/about-us/our-story</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/about-us/social-responsibilities</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/about-us/design-philosophy</loc>
+    <loc>https://www.edifier.com/us/en/blog-news-press/gift-guide-audio-2015</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/headphones-earphones/k550-communication-call-center-headset</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/blog-news-press/H850-Sale-May-2016</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/us/en/blog-news-press/gift-guide-audio-2015</loc>
+    <loc>https://www.edifier.com/us/en/headphones-earphones/g10-computer-gaming-headset</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/blog-news-press/Edifier-Black-Friday-Deals-2015</loc>
@@ -526,19 +517,19 @@
     <loc>https://www.edifier.com/us/en/blog-news-press/running-workout-exercise-headphone</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/blog-news-press/hands-free-bluetooth-headphone</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/us/en/blog-news-press/edifier-gaming-headphoes-g2-g3</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/blog-news-press/choose-the-perfect-earphone</loc>
+    <loc>https://www.edifier.com/us/en/blog-news-press/hands-free-bluetooth-headphone</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/blog-news-press/headphones-h850-pure-sound</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/blog-news-press/noise-cancelling-noise-isolating-headphones</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/blog-news-press/choose-the-perfect-earphone</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/blog-news-press/edifier-hifi-headphones</loc>
@@ -598,10 +589,10 @@
     <loc>https://www.edifier.com/us/en/blog-news-press/sound-to-go-named-as-ces-innovations-honoree</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/blog-news-press/edifier-new-luna5-if500-encore-audio</loc>
+    <loc>https://www.edifier.com/us/en/blog-news-press/new-distribution-partner-india</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/us/en/blog-news-press/new-distribution-partner-india</loc>
+    <loc>https://www.edifier.com/us/en/blog-news-press/edifier-new-luna5-if500-encore-audio</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/blog-news-press/sound-to-go-award-winning</loc>
@@ -613,7 +604,16 @@
     <loc>https://www.edifier.com/us/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/us/en/about-us/our-story</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/us/en/blog-news-press/edifier-m1360-multimedia-sound-speaker-system</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/about-us/social-responsibilities</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/us/en/about-us/design-philosophy</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/us/en/how-to-connect-bluetooth-speakers</loc>

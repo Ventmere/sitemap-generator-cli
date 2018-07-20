@@ -88,7 +88,10 @@ function urlItemfindRefs(curItem, jsonAll, targetNow) {
   );
   jsonOthers.forEach(item => {
     item.data.urlset.url.forEach(urlItemCompare => {
-      if (compareUrl(curItem.loc[0], urlItemCompare.loc[0])) {
+      if (
+        compareUrl(curItem.loc[0], urlItemCompare.loc[0]) &&
+        item.target.country !== "int"
+      ) {
         refItems.push({
           $: {
             rel: "alternate",
