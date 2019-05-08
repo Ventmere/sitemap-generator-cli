@@ -10,10 +10,10 @@
     <loc>https://www.edifier.com/fr/fr/speakers</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/region-language</loc>
+    <loc>https://www.edifier.com/fr/fr/speakers/e25-luna-eclipse</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/shop</loc>
+    <loc>https://www.edifier.com/fr/fr/region-language</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/speakers/mp700</loc>
@@ -22,7 +22,7 @@
     <loc>https://www.edifier.com/fr/fr/speakers/e255</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/speakers/e25-luna-eclipse</loc>
+    <loc>https://www.edifier.com/fr/fr/shop</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/speakers/e30-spinnaker-2.0-bluetooth</loc>
@@ -34,13 +34,13 @@
     <loc>https://www.edifier.com/fr/fr/about-us</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/speakers/bluetooth-wireless</loc>
+    <loc>https://www.edifier.com/fr/fr/warranty-terms</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/contact-us</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/warranty-terms</loc>
+    <loc>https://www.edifier.com/fr/fr/speakers/bluetooth-wireless</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/support</loc>
@@ -70,16 +70,19 @@
     <loc>https://www.edifier.com/fr/fr/speakers/m1370-2.1-computer</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/speakers/m1390bt</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/fr/fr/speakers/m3600d</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/speakers/mp100</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/fr/fr/speakers/m1390bt</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/fr/fr/speakers/mp202-duo-portable-stereo</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/fr/fr/speakers/mp200</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/speakers/mp211</loc>
@@ -88,10 +91,10 @@
     <loc>https://www.edifier.com/fr/fr/speakers/mp233</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/speakers/mp255</loc>
+    <loc>https://www.edifier.com/fr/fr/speakers/mp280</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/speakers/mp280</loc>
+    <loc>https://www.edifier.com/fr/fr/speakers/mp255</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/speakers/mp80</loc>
@@ -109,6 +112,9 @@
     <loc>https://www.edifier.com/fr/fr/speakers/r2000db</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/fr/fr/speakers/r1850db</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/fr/fr/speakers/r2730db</loc>
   </url>
   <url>
@@ -118,13 +124,16 @@
     <loc>https://www.edifier.com/fr/fr/speakers/s350db-bookshelf-speakers-subwoofer</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/speakers/s880db-bluetooth-usb-bookshelf-speakers</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/fr/fr/blog-news-press/b3-soundbar-perfect-for-living-room</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/blog-news-press/luna-e-home-theatre-speaker-sound-system</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/fr/fr/speakers/s880db-bluetooth-usb-bookshelf-speakers</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/fr/fr/headphones-earphones/v4-gaming-headsets-pc-laptop</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/blog-news-press/edifier-showcases-new-soundbars-ces2015</loc>
@@ -169,10 +178,10 @@
     <loc>https://www.edifier.com/fr/fr/blog-news-press/on-the-go-if350-ipodiphone-dock-from-edifier</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/blog-news-press/sound-to-go-named-as-ces-innovations-honouree</loc>
+    <loc>https://www.edifier.com/fr/fr/blog-news-press/edifier-new-luna5-if500-encore-audio</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/fr/fr/blog-news-press/edifier-new-luna5-if500-encore-audio</loc>
+    <loc>https://www.edifier.com/fr/fr/blog-news-press/sound-to-go-named-as-ces-innovations-honouree</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/fr/fr/blog-news-press/new-distribution-partner-india</loc>

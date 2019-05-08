@@ -7,13 +7,13 @@
     <loc>https://www.edifier.com/mx/es/</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/mx/es/speakers</loc>
+    <loc>https://www.edifier.com/mx/es/region-language</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/headphones-earphones</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/mx/es/region-language</loc>
+    <loc>https://www.edifier.com/mx/es/speakers</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/speakers/s1000db</loc>
@@ -22,19 +22,19 @@
     <loc>https://www.edifier.com/mx/es/speakers/r2000db-bookshelf-bluetooth-optical-rca</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/mx/es/speakers/studio-1280t-2.0-powered-bookshelf</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/mx/es/blog-news-press</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/mx/es/speakers/bluetooth-wireless</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/about-us</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/contact-us</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/mx/es/speakers/studio-1280t-2.0-powered-bookshelf</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/mx/es/speakers/bluetooth-wireless</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/warranty-terms</loc>
@@ -47,24 +47,6 @@
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/privacy-statement</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/mx/es/speakers/if335bt</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/mx/es/speakers/mp700</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/mx/es/speakers/r1000t4</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/mx/es/speakers/r1280db</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/mx/es/speakers/r19u</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/mx/es/speakers/s2000pro</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/headphones-earphones/g2</loc>
@@ -82,6 +64,21 @@
     <loc>https://www.edifier.com/mx/es/headphones-earphones/w855bt</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/mx/es/speakers/mp700</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/mx/es/speakers/if335bt</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/mx/es/speakers/r1000t4</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/mx/es/speakers/r1280db</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/mx/es/speakers/r19u</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/mx/es/blog-news-press/b3-soundbar-perfect-for-living-room</loc>
   </url>
   <url>
@@ -91,7 +88,7 @@
     <loc>https://www.edifier.com/mx/es/blog-news-press/edifier-showcases-new-soundbars-ces2015</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/mx/es/blog-news-press/luna-e-audio-system-named-CES-honouree</loc>
+    <loc>https://www.edifier.com/mx/es/speakers/s2000pro</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/blog-news-press/edifier-unveils-new-products-at-CES-2012</loc>
@@ -101,6 +98,9 @@
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/blog-news-press/spinnaker-awarded-ces-innovations-design</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/mx/es/blog-news-press/luna-e-audio-system-named-CES-honouree</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/blog-news-press/eidc-edifier-intelligent-distortion-control</loc>
@@ -130,10 +130,10 @@
     <loc>https://www.edifier.com/mx/es/blog-news-press/on-the-go-if350-ipodiphone-dock-from-edifier</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/mx/es/blog-news-press/sound-to-go-named-as-ces-innovations-honouree</loc>
+    <loc>https://www.edifier.com/mx/es/blog-news-press/edifier-new-luna5-if500-encore-audio</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/mx/es/blog-news-press/edifier-new-luna5-if500-encore-audio</loc>
+    <loc>https://www.edifier.com/mx/es/blog-news-press/sound-to-go-named-as-ces-innovations-honouree</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/mx/es/blog-news-press/new-distribution-partner-india</loc>

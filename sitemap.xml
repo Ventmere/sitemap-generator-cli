@@ -19,9 +19,6 @@
     <loc>https://www.edifier.com/sitemap_en-my.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://www.edifier.com/sitemap_en-int.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://www.edifier.com/sitemap_en-in.xml</loc>
   </sitemap>
   <sitemap>
@@ -35,5 +32,8 @@
   </sitemap>
   <sitemap>
     <loc>https://www.edifier.com/sitemap_es-mx.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.edifier.com/sitemap_zh-cn.xml</loc>
   </sitemap>
 </sitemapindex>

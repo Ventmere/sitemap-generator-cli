@@ -12,30 +12,9 @@
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr"/>
     <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es"/>
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zhpage-cc20"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/region-language</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/region-language"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/region-language"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/region-language"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/region-language"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/region-language"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/region-language"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/region-language"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/region-language"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/region-language"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/region-language"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/region-language"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/subwoofers-for-tv-and-living-rooms</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/subwoofers-for-tv-and-living-rooms"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/subwoofers-for-tv-and-living-rooms"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/subwoofers-for-tv-and-living-rooms"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/subwoofers-for-tv-and-living-rooms"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/subwoofers-for-tv-and-living-rooms"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/subwoofers-for-tv-and-living-rooms"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers</loc>
@@ -50,6 +29,25 @@
     <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/speakers"/>
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/speakers"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/subwoofers-for-tv-and-living-rooms</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/subwoofers-for-tv-and-living-rooms"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/subwoofers-for-tv-and-living-rooms"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/subwoofers-for-tv-and-living-rooms"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/subwoofers-for-tv-and-living-rooms"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/subwoofers-for-tv-and-living-rooms"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/subwoofers-for-tv-and-living-rooms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/subwoofers-for-tv-and-living-rooms"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/gaming</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/gaming"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/gaming"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/gaming"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/gaming"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/gaming"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/gaming"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/subwoofers-for-home-theatre</loc>
@@ -69,13 +67,19 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/subwoofers-for-the-bass-lovers"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/gaming</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/gaming"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/gaming"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/gaming"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/gaming"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/gaming"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/gaming"/>
+    <loc>https://www.edifier.com/nl/nl/region-language</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/region-language"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/region-language"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/region-language"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/region-language"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/region-language"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/region-language"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/region-language"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/region-language"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/region-language"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/region-language"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/region-language"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/region-language"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/pc-laptop</loc>
@@ -84,6 +88,7 @@
     <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/pc-laptop"/>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/pc-laptop"/>
     <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/pc-laptop"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/pc-laptop"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/pc-laptop"/>
   </url>
   <url>
@@ -98,21 +103,8 @@
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/bluetooth-wireless"/>
     <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/speakers/bluetooth-wireless"/>
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/speakers/bluetooth-wireless"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/bluetooth-wireless"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/bluetooth-wireless"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/battery-powered-portable</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/battery-powered-portable"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/battery-powered-portable"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/battery-powered-portable"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/battery-powered-portable"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/battery-powered-portable"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/soundbars</loc>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/soundbars"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/soundbars"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/soundbars"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/2.0-powered-bookshelf</loc>
@@ -121,7 +113,23 @@
     <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/2.0-powered-bookshelf"/>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/2.0-powered-bookshelf"/>
     <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/2.0-powered-bookshelf"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/2.0-powered-bookshelf"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/2.0-powered-bookshelf"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/soundbars</loc>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/soundbars"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/soundbars"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/soundbars"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/battery-powered-portable</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/battery-powered-portable"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/battery-powered-portable"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/battery-powered-portable"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/battery-powered-portable"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/battery-powered-portable"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/battery-powered-portable"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/2.1-subwoofer</loc>
@@ -130,16 +138,8 @@
     <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/2.1-subwoofer"/>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/2.1-subwoofer"/>
     <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/2.1-subwoofer"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/2.1-subwoofer"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/2.1-subwoofer"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/5.1-surround-sound</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/5.1-surround-sound"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/5.1-surround-sound"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/5.1-surround-sound"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/5.1-surround-sound"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/5.1-surround-sound"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/5.1-surround-sound"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones</loc>
@@ -152,12 +152,22 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/headphones-earphones"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/headphones-earphones/for-smartphones</loc>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/for-smartphones"/>
+    <loc>https://www.edifier.com/nl/nl/speakers/5.1-surround-sound</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/5.1-surround-sound"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/5.1-surround-sound"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/5.1-surround-sound"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/5.1-surround-sound"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/5.1-surround-sound"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/5.1-surround-sound"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/5.1-surround-sound"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/hi-fi-audiophile</loc>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/hi-fi-audiophile"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/headphones-earphones/for-smartphones</loc>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/for-smartphones"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/computer-laptop-headset</loc>
@@ -172,13 +182,13 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/headphones-earphones/gaming"/>
   </url>
   <url>
+    <loc>https://www.edifier.com/nl/nl/headphones-earphones/in-ear-earbuds</loc>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/in-ear-earbuds"/>
+  </url>
+  <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/in-ear-canalbud-canalphone</loc>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/in-ear-canalbud-canalphone"/>
     <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/headphones-earphones/in-ear-canalbud-canalphone"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/headphones-earphones/in-ear-earbuds</loc>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/in-ear-earbuds"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/over-the-ear</loc>
@@ -213,11 +223,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/s880db"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/headphones-earphones/w800bt</loc>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/headphones-earphones/w800bt"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/w800bt"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/s2000pro</loc>
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/s2000pro"/>
     <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/s2000pro"/>
@@ -226,8 +231,14 @@
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/speakers/s2000pro"/>
   </url>
   <url>
+    <loc>https://www.edifier.com/nl/nl/headphones-earphones/w800bt</loc>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/headphones-earphones/w800bt"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/w800bt"/>
+  </url>
+  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/s1000</loc>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/s1000"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/s1000"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/studio-1280t-2.0-powered-bookshelf</loc>
@@ -240,9 +251,10 @@
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/speakers/studio-1280t-2.0-powered-bookshelf"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/c3x</loc>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/c3x"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/c3x"/>
+    <loc>https://www.edifier.com/nl/nl/headphones-earphones/w855bt</loc>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/headphones-earphones/w855bt"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/w855bt"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/headphones-earphones/w855bt"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/h850-foldable-puresound</loc>
@@ -252,10 +264,13 @@
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/headphones-earphones/h850-foldable-puresound"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/headphones-earphones/w855bt</loc>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/headphones-earphones/w855bt"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/w855bt"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/headphones-earphones/w855bt"/>
+    <loc>https://www.edifier.com/nl/nl/speakers/m3600d</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/m3600d"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/m3600d"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/m3600d"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m3600d"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/m3600d"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/m3600d"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/s350db</loc>
@@ -266,7 +281,13 @@
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/speakers/r1280db"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/headphones-earphones/g4</loc>
+    <loc>https://www.edifier.com/nl/nl/speakers/r1700bt-bluetooth-bookshelf</loc>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/r1700bt-bluetooth-bookshelf"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/speakers/r1700bt-bluetooth-bookshelf"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/r1700bt-bluetooth-bookshelf"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/r1700bt-bluetooth-bookshelf"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/r1700bt-bluetooth-bookshelf"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/speakers/r1700bt-bluetooth-bookshelf"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/mp100</loc>
@@ -276,18 +297,16 @@
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/mp100"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/blog-news-press</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press"/>
+    <loc>https://www.edifier.com/nl/nl/headphones-earphones/g4</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/b7</loc>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/b7"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/b7"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/b7"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/b7"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/b7"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/b7"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/about-us</loc>
@@ -304,21 +323,33 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/about-us"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/r1700bt-bluetooth-bookshelf</loc>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/r1700bt-bluetooth-bookshelf"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/speakers/r1700bt-bluetooth-bookshelf"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/r1700bt-bluetooth-bookshelf"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/r1700bt-bluetooth-bookshelf"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/r1700bt-bluetooth-bookshelf"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/speakers/r1700bt-bluetooth-bookshelf"/>
+    <loc>https://www.edifier.com/nl/nl/blog-news-press</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/b7</loc>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/b7"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/b7"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/b7"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/b7"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/b7"/>
+    <loc>https://www.edifier.com/nl/nl/warranty-terms</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/warranty-terms"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/warranty-terms"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/contact-us</loc>
@@ -335,18 +366,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/contact-us"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/warranty-terms</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/warranty-terms"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/warranty-terms"/>
+    <loc>https://www.edifier.com/nl/nl/privacy-statement</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/privacy-statement"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/privacy-statement"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/support</loc>
@@ -363,20 +394,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/support"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/privacy-statement</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/privacy-statement"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/privacy-statement"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/terms-of-use</loc>
     <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/terms-of-use"/>
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/terms-of-use"/>
@@ -390,24 +407,19 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/terms-of-use"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/b3-home-theatre-soundbar</loc>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/b3-home-theatre-soundbar"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/b3-home-theatre-soundbar"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/e25hd</loc>
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/e25hd"/>
     <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/speakers/e25hd"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/m3280-bluetooth-2.1</loc>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/speakers/m3280-bluetooth-2.1"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/m3280-bluetooth-2.1"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m3280-bluetooth-2.1"/>
+    <loc>https://www.edifier.com/nl/nl/speakers/b3-home-theatre-soundbar</loc>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/b3-home-theatre-soundbar"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/b3-home-theatre-soundbar"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/mp200</loc>
     <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/mp200"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/mp200"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/mp233-portable-bluetooth-micro-sd</loc>
@@ -430,11 +442,6 @@
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/speakers/mp700"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/mp80</loc>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/mp80"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/mp80"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/r2000db-bookshelf-bluetooth-optical-rca</loc>
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/r2000db-bookshelf-bluetooth-optical-rca"/>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/speakers/r2000db-bookshelf-bluetooth-optical-rca"/>
@@ -451,6 +458,11 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/s50db-power-home-soundbar"/>
   </url>
   <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/mp80</loc>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/mp80"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/mp80"/>
+  </url>
+  <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/w295bt</loc>
   </url>
   <url>
@@ -458,15 +470,11 @@
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/headphones-earphones/w670bt-bluetooth-handsfree-foldable"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/m2280-compact-laptop</loc>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/m2280-compact-laptop"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m2280-compact-laptop"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/m1250-compact-laptop-usb</loc>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/speakers/m1250-compact-laptop-usb"/>
     <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/m1250-compact-laptop-usb"/>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m1250-compact-laptop-usb"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/m1250-compact-laptop-usb"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/W830BT-Bluetooth-aptX-Wireless-Headphones</loc>
@@ -475,24 +483,38 @@
     <loc>https://www.edifier.com/nl/nl/speakers/r1100</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/m2280-compact-laptop</loc>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/m2280-compact-laptop"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m2280-compact-laptop"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/m2280-compact-laptop"/>
+  </url>
+  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/r12u</loc>
     <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/speakers/r12u"/>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/r12u"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/r1850db</loc>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/r1850db"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/r1850db"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/r1850db"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/r12u"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/r2730db-bluetooth-bookshelf</loc>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/r2730db-bluetooth-bookshelf"/>
   </url>
   <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/r1850db</loc>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/r1850db"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/r1850db"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/r1850db"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/r1850db"/>
+  </url>
+  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/r980t-2.0-powered-bookshelf</loc>
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/r980t-2.0-powered-bookshelf"/>
     <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/r980t-2.0-powered-bookshelf"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/m1380-m1385-2.1-computer</loc>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/m1380-m1385-2.1-computer"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/m1380-m1385-2.1-computer"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m1380-m1385-2.1-computer"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/m1360-2.1-computer</loc>
@@ -502,24 +524,9 @@
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m1360-2.1-computer"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/m1380-m1385-2.1-computer</loc>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/m1380-m1385-2.1-computer"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/speakers/m1380-m1385-2.1-computer"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m1380-m1385-2.1-computer"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/m3200-2.1</loc>
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/m3200-2.1"/>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m3200-2.1"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/m3600d</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/speakers/m3600d"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/speakers/m3600d"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/m3600d"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/m3600d"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/m3600d"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/speakers/m3600d"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/e255</loc>
@@ -529,6 +536,7 @@
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/speakers/e255"/>
     <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/speakers/e255"/>
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/e255"/>
+    <xhtml:link rel="alternate" hreflang="zh-cn" href="https://www.edifier.com/cn/zh/speakers/e255"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/speakers/e235-luna-e-2.1-bluetooth-wireless-subwoofer</loc>
@@ -543,11 +551,6 @@
     <loc>https://www.edifier.com/nl/nl/speakers/m1390</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/speakers/m1390bt</loc>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/m1390bt"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/m1390bt"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/speakers/m2290bt</loc>
   </url>
   <url>
@@ -556,6 +559,12 @@
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/headphones-earphones/h210-noise-isolating-tilt-hifi"/>
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/h210-noise-isolating-tilt-hifi"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/headphones-earphones/h210-noise-isolating-tilt-hifi"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/speakers/m1390bt</loc>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/speakers/m1390bt"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/speakers/m1390bt"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/speakers/m1390bt"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/g2-gaming-microphone</loc>
@@ -567,18 +576,60 @@
     <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/p265"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/headphones-earphones/p841</loc>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/headphones-earphones/p841"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/p841"/>
+    <loc>https://www.edifier.com/nl/nl/about-us/social-responsibilities</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/about-us/social-responsibilities"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/about-us/social-responsibilities"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/about-us/our-story</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/about-us/our-story"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/about-us/our-story"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/g10</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/headphones-earphones/p841</loc>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/headphones-earphones/p841"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/headphones-earphones/p841"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/headphones-earphones/g20</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/TechTesters-review-Edifier-R980T</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/about-us/design-philosophy</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/about-us/design-philosophy"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/about-us/design-philosophy"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/Alpha-Audio-review-Edifier-W830BT</loc>
@@ -644,10 +695,10 @@
     <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-techtesters-review-r2000db-vs-sonos-play1</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-techtesters-review-r1280t-r1700bt</loc>
+    <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-computertotaal-review-b7</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-computertotaal-review-b7</loc>
+    <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-techtesters-review-r1280t-r1700bt</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-techtesters-review-c3x</loc>
@@ -882,18 +933,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press/on-the-go-if350-ipodiphone-dock-from-edifier"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/blog-news-press/sound-to-go-named-as-ces-innovations-honouree</loc>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-new-luna5-if500-encore-audio</loc>
     <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/blog-news-press/edifier-new-luna5-if500-encore-audio"/>
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press/edifier-new-luna5-if500-encore-audio"/>
@@ -908,18 +947,16 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press/edifier-new-luna5-if500-encore-audio"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/blog-news-press/new-distribution-partner-india</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press/new-distribution-partner-india"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press/new-distribution-partner-india"/>
+    <loc>https://www.edifier.com/nl/nl/blog-news-press/sound-to-go-named-as-ces-innovations-honouree</loc>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press/sound-to-go-named-as-ces-innovations-honouree"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/sound-to-go-award-winning</loc>
@@ -936,20 +973,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press/sound-to-go-award-winning"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
-  </url>
-  <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-on-the-go-if350-portable-sound-system</loc>
     <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/blog-news-press/edifier-on-the-go-if350-portable-sound-system"/>
     <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press/edifier-on-the-go-if350-portable-sound-system"/>
@@ -964,18 +987,32 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press/edifier-on-the-go-if350-portable-sound-system"/>
   </url>
   <url>
-    <loc>https://www.edifier.com/nl/nl/about-us/our-story</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/about-us/our-story"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/about-us/our-story"/>
+    <loc>https://www.edifier.com/nl/nl/blog-news-press/new-distribution-partner-india</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press/new-distribution-partner-india"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press/new-distribution-partner-india"/>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/nl/nl/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system</loc>
+    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/blog-news-press/edifier-m1360-multimedia-speaker-system</loc>
@@ -988,34 +1025,6 @@
     <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/blog-news-press/edifier-m1360-multimedia-speaker-system"/>
     <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/blog-news-press/edifier-m1360-multimedia-speaker-system"/>
     <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/blog-news-press/edifier-m1360-multimedia-speaker-system"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/about-us/social-responsibilities</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/about-us/social-responsibilities"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/about-us/social-responsibilities"/>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/nl/nl/about-us/design-philosophy</loc>
-    <xhtml:link rel="alternate" hreflang="en-us" href="https://www.edifier.com/us/en/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="en-ca" href="https://www.edifier.com/ca/en/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="en-gb" href="https://www.edifier.com/gb/en/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="en-au" href="https://www.edifier.com/au/en/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="en-hk" href="https://www.edifier.com/hk/en/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="en-my" href="https://www.edifier.com/my/en/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.edifier.com/in/en/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="fr-fr" href="https://www.edifier.com/fr/fr/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="es-pe" href="https://www.edifier.com/pe/es/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="es-mx" href="https://www.edifier.com/mx/es/about-us/design-philosophy"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.edifier.com/us/en/about-us/design-philosophy"/>
   </url>
   <url>
     <loc>https://www.edifier.com/nl/nl/how-to-connect-bluetooth-speakers</loc>

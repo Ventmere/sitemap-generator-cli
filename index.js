@@ -28,10 +28,6 @@ const countriesOrigin = [
     lang: "en"
   },
   {
-    country: "int",
-    lang: "en"
-  },
-  {
     country: "in",
     lang: "en"
   },
@@ -50,6 +46,10 @@ const countriesOrigin = [
   {
     country: "mx",
     lang: "es"
+  },
+  {
+    country: "cn",
+    lang: "zh"
   }
 ];
 

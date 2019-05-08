@@ -7,9 +7,6 @@
     <loc>https://www.edifier.com/in/en/</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/region-language</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/in/en/speakers/bookshelf</loc>
   </url>
   <url>
@@ -19,13 +16,16 @@
     <loc>https://www.edifier.com/in/en/speakers/subwoofers-for-tv-and-living-rooms</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/in/en/region-language</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/in/en/speakers/soundbars</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/speakers</loc>
+    <loc>https://www.edifier.com/in/en/headphones-earphones/in-ear-canalbud-canalphone</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/headphones-earphones/in-ear-canalbud-canalphone</loc>
+    <loc>https://www.edifier.com/in/en/speakers</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/in/en/headphones-earphones/over-the-ear</loc>
@@ -37,28 +37,28 @@
     <loc>https://www.edifier.com/in/en/accessories</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/in/en/about-us</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/in/en/speakers/b7</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/in/en/speakers/e255</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/speakers/r1700bt-bluetooth-bookshelf</loc>
-  </url>
-  <url>
-    <loc>https://www.edifier.com/in/en/about-us</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/in/en/blog-news-press</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/support</loc>
+    <loc>https://www.edifier.com/in/en/speakers/r1700bt-bluetooth-bookshelf</loc>
+  </url>
+  <url>
+    <loc>https://www.edifier.com/in/en/privacy-statement</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/in/en/contact-us</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/privacy-statement</loc>
+    <loc>https://www.edifier.com/in/en/support</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/in/en/terms-of-use</loc>
@@ -67,10 +67,10 @@
     <loc>https://www.edifier.com/in/en/speakers/r1010bt-simple-bluetooth-bookshelf-speakers</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/warranty-terms</loc>
+    <loc>https://www.edifier.com/in/en/speakers/r980t-2.0-powered-bookshelf</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/speakers/r980t-2.0-powered-bookshelf</loc>
+    <loc>https://www.edifier.com/in/en/warranty-terms</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/in/en/return-policy</loc>
@@ -133,10 +133,10 @@
     <loc>https://www.edifier.com/in/en/blog-news-press/luna-e-home-theatre-speaker-sound-system</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/blog-news-press/edifier-showcases-new-soundbars-ces2015</loc>
+    <loc>https://www.edifier.com/in/en/blog-news-press/luna-e-audio-system-named-CES-honouree</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/blog-news-press/luna-e-audio-system-named-CES-honouree</loc>
+    <loc>https://www.edifier.com/in/en/blog-news-press/edifier-showcases-new-soundbars-ces2015</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/in/en/blog-news-press/edifier-unveils-new-products-at-CES-2012</loc>
@@ -175,24 +175,24 @@
     <loc>https://www.edifier.com/in/en/blog-news-press/on-the-go-if350-ipodiphone-dock-from-edifier</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree</loc>
-  </url>
-  <url>
     <loc>https://www.edifier.com/in/en/blog-news-press/edifier-new-luna5-if500-encore-audio</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/in/en/blog-news-press/new-distribution-partner-india</loc>
   </url>
   <url>
+    <loc>https://www.edifier.com/in/en/blog-news-press/sound-to-go-named-as-ces-innovations-honouree</loc>
+  </url>
+  <url>
     <loc>https://www.edifier.com/in/en/blog-news-press/sound-to-go-award-winning</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/blog-news-press/edifier-on-the-go-if350-portable-sound-system</loc>
+    <loc>https://www.edifier.com/in/en/blog-news-press/edifier-m1360-multimedia-speaker-system</loc>
   </url>
   <url>
     <loc>https://www.edifier.com/in/en/blog-news-press/edifiers-sound-to-go-usb-micro-speaker-system</loc>
   </url>
   <url>
-    <loc>https://www.edifier.com/in/en/blog-news-press/edifier-m1360-multimedia-speaker-system</loc>
+    <loc>https://www.edifier.com/in/en/blog-news-press/edifier-on-the-go-if350-portable-sound-system</loc>
   </url>
 </urlset>
